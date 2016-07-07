@@ -1,2 +1,2 @@
-FROM sentry:8.4
+FROM sentry:8.6
 RUN pip install https://github.com/getsentry/sentry-slack/archive/master.zip
